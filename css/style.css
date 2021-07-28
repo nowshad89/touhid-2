@@ -1,0 +1,364 @@
+                    * {
+                        margin: 0;
+                        padding: 0;
+                    }
+                    
+                    .header {}
+                    
+                    header {
+                        width: 70%;
+                        margin: auto;
+                        overflow: hidden;
+                        padding: 20px 0;
+                        margin-bottom: 100px;
+                    }
+                    
+                    .logo {
+                        width: 15%;
+                        float: left;
+                    }
+                    
+                    .logo img {
+                        width: 100%;
+                    }
+                    
+                    nav {
+                        width: 30%;
+                        float: left;
+                        /* margin-left: 40px; */
+                        margin: 19px;
+                    }
+                    
+                    nav ul {
+                        list-style: none;
+                    }
+                    
+                    nav ul li {
+                        float: left;
+                        margin-left: 20px;
+                        text-transform: capitalize;
+                        font-size: 18px;
+                    }
+                    
+                    .theme {
+                        width: 24%;
+                        float: right;
+                        background-color: #FF6162;
+                        border-radius: 5px;
+                        height: 50px;
+                        text-align: center;
+                    }
+                    
+                    .theme h1 {
+                        margin-left: 17px;
+                        font-size: 20px;
+                        color: #FFE4E4;
+                        text-transform: capitalize;
+                        margin: auto;
+                        padding: 15px;
+                    }
+                    
+                    .main {
+                        width: 70%;
+                        margin: auto;
+                        overflow: hidden;
+                        margin-bottom: 200px;
+                    }
+                    
+                    .main-left {
+                        float: left;
+                        width: 46%;
+                        text-align: left;
+                        margin-top: 40px;
+                    }
+                    
+                    .main-left h1 {
+                        text-align: left;
+                        text-transform: capitalize;
+                        font-size: 44px;
+                        margin-bottom: 20px;
+                    }
+                    
+                    .main-left p {
+                        font-size: 16px;
+                        color: #666279;
+                    }
+                    
+                    .main-light img {
+                        float: left;
+                    }
+                    
+                    .main-right {
+                        float: right;
+                        width: 50%;
+                    }
+                    
+                    .main-right img {
+                        width: 100%;
+                    }
+                    
+                    .item {
+                        width: 100%;
+                        overflow: hidden;
+                    }
+                    
+                    .item h2 {
+                        width: 40%;
+                        float: none;
+                        margin: auto;
+                        text-align: center;
+                        margin-bottom: 10px;
+                        text-transform: capitalize;
+                        font-size: 29px;
+                    }
+                    
+                    .item p {
+                        width: 40%;
+                        float: none;
+                        margin: auto;
+                        text-align: center;
+                        margin-bottom: 25px;
+                        font-size: 16px;
+                        color: #858FAA;
+                    }
+                    
+                    .template {
+                        width: 100%;
+                        margin: auto;
+                        overflow: hidden;
+                    }
+                    
+                    .item-one {
+                        float: left;
+                        width: 22%;
+                        padding: 20px 20px;
+                    }
+                    
+                    .item-one img {
+                        width: 90%;
+                    }
+                    
+                    .item-one h3 {
+                        font-size: 17px;
+                        text-align: center;
+                        color: #696C6E;
+                    }
+                    
+                    .item-two {
+                        float: left;
+                        width: 22%;
+                        padding: 20px 20px;
+                    }
+                    
+                    .item-two img {
+                        width: 90%;
+                    }
+                    
+                    .item-two h3 {
+                        font-size: 17px;
+                        text-align: center;
+                        color: #696C6E;
+                    }
+                    
+                    .item-three {
+                        float: left;
+                        width: 22%;
+                        padding: 20px 20px;
+                    }
+                    
+                    .item-three img {
+                        width: 90%;
+                    }
+                    
+                    .item-three h3 {
+                        font-size: 17px;
+                        text-align: center;
+                        color: #696C6E;
+                    }
+                    
+                    .item-four {
+                        float: right;
+                        width: 22%;
+                        padding: 20px 20px;
+                    }
+                    
+                    .item-four img {
+                        width: 90%;
+                    }
+                    
+                    .item-four h3 {
+                        font-size: 17px;
+                        text-align: center;
+                        color: #696C6E;
+                    }
+                    
+                    .features {
+                        width: 60%;
+                        margin: auto;
+                        overflow: hidden;
+                    }
+                    
+                    .features h2 {
+                        text-align: center;
+                        text-transform: capitalize;
+                        margin-bottom: 10px;
+                        font-size: 29px;
+                        color: #292640;
+                    }
+                    
+                    .features p {
+                        text-align: center;
+                        color: #858FAA;
+                        text-transform: initial;
+                        margin-bottom: 100px;
+                    }
+                    
+                    .feature-part-upper {
+                        width: 100%;
+                        overflow: hidden;
+                        margin-bottom: 5%;
+                    }
+                    
+                    .feature-part-lower {
+                        width: 100%;
+                        overflow: hidden;
+                        margin-bottom: 100px;
+                    }
+                    
+                    .feature-part-1 {
+                        float: left;
+                        width: 30%;
+                        background-color: #efeaea;
+                        height: 280px;
+                    }
+                    
+                    .feature-part-2 {
+                        float: left;
+                        width: 30%;
+                        margin-left: 5%;
+                        background-color: #efeaea;
+                        height: 280px;
+                    }
+                    
+                    .feature-part-3 {
+                        float: right;
+                        width: 30%;
+                        margin-left: 5%;
+                        background-color: #efeaea;
+                        height: 280px;
+                    }
+                    
+                    .feature-part-4 {
+                        float: left;
+                        background-color: #efeaea;
+                        width: 30%;
+                        height: 250px;
+                    }
+                    
+                    .feature-part-5 {
+                        float: left;
+                        width: 30%;
+                        margin-left: 5%;
+                        background-color: #efeaea;
+                        height: 250px;
+                    }
+                    
+                    .feature-part-6 {
+                        float: right;
+                        width: 30%;
+                        margin-left: 5%;
+                        background-color: #efeaea;
+                        height: 250px;
+                    }
+                    
+                    .feature-part-1 img,
+                    .feature-part-2 img,
+                    .feature-part-3 img,
+                    .feature-part-4 img,
+                    .feature-part-5 img,
+                    .feature-part-6 img {
+                        margin: 10% 35%;
+                    }
+                    
+                    .feature-part-1 h2,
+                    .feature-part-2 h2,
+                    .feature-part-3 h2,
+                    .feature-part-4 h2,
+                    .feature-part-5 h2,
+                    .feature-part-6 h2 {
+                        text-align: center;
+                        color: #464A4C;
+                        margin-bottom: 10px;
+                        text-transform: capitalize;
+                        font-size: 20px;
+                    }
+                    
+                    .feature-part-1 p,
+                    .feature-part-2 p,
+                    .feature-part-3 p,
+                    .feature-part-4 p,
+                    .feature-part-5 p,
+                    .feature-part-6 p {
+                        color: #858FAA;
+                        text-align: center;
+                        margin-bottom: 5%;
+                    }
+                    
+                    .footer {
+                        width: 100%;
+                        text-align: center;
+                        background-color: #292640;
+                        overflow: hidden;
+                    }
+                    
+                    .footer h1 {
+                        text-transform: capitalize;
+                        font-size: 50px;
+                        margin: 0 30% 2% 30%;
+                        padding-top: 70px;
+                        color: #FFFFFF;
+                    }
+                    
+                    .footer h2 {
+                        font-size: 18px;
+                        color: #FFE4E4;
+                        text-transform: uppercase;
+                        padding: 15PX;
+                        margin: auto;
+                    }
+                    
+                    .theme-last {
+                        width: 18%;
+                        margin: auto;
+                        background-color: #FF6162;
+                        border-radius: 7px;
+                        height: 50px;
+                        text-align: center;
+                        margin-bottom: 30px;
+                        overflow: hidden;
+                    }
+                    
+                    .tawhid {
+                        width: 18%;
+                        margin: auto;
+                        overflow: hidden;
+                    }
+                    
+                    .tawhid img {
+                        float: left;
+                        width: 15%;
+                        margin-left: 20%
+                    }
+                    
+                    .tawhid h3 {
+                        font-size: 20px;
+                        margin-right: 16%;
+                        padding-top: 7px;
+                        text-transform: capitalize;
+                        color: #93919E;
+                    }
+                    
+                    .tauhid {
+                        float: right;
+                        overflow: hidden;
+                    }
